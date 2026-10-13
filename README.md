@@ -9,7 +9,7 @@ PlanSeance is a mobile-first web application that helps a professor and a group 
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-🔗 **Live Demo:** [Add your Vercel URL here](https://your-project.vercel.app)
+🔗 **Live Demo:** ((https://planseance.vercel.app/))
 
 > **Note:** The interface is in French. Data is kept in memory only, so refreshing the page resets the timetables.
 
@@ -89,7 +89,7 @@ src/
 
 ## 📸 Screenshots
 
-Screenshots of the timetable grid and the results screen will be added here.
+![Planseance screenshot](./public/Planseance.png)
 
 ## 🗺️ Roadmap
 
